@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alessio-git21
 - 👀 I’m interested in data science
-- ⛵🧭 I like working with data to better understand the world and improve people's lives
+- 🧭 I like working with data to better understand the world and improve people's lives
 - 📫 How to reach me: alessioroscioli21@gmail.com
 
 <!---
